@@ -1,0 +1,31 @@
+export const typing_message: string[] = [
+  "he's cookin..",
+  "better than stack overflow..",
+  "chatgpt who?..",
+  "code maxxing..",
+  "cross-checking every code forum known to man..",
+  "slayin..",
+  "quacking..",
+  "what the quack dawg..",
+  "thinking..",
+  "quacking up some devious quacks..",
+  "quackin.. quack",
+  "swimming..",
+  "quack maxxing..",
+  "downloading your api keys..",
+  "so goated..",
+];
+
+export const quack_message: string[] = [
+  "quack quack, quack quack quack QUACK quack",
+  "QUACK QUACK QUAAAACK",
+  "quack..? quack quack quack",
+  "quACK quack quack",
+  "QUAK QUACK QUA-",
+  "quack.. quack quack QUACK quack",
+  "quack quack quacK???!!",
+  "quack quACK quack QUACK QUACK quack quack?",
+  "https://www.youtube.com/watch?v=MtN1YnoL46Q",
+  "https://www.youtube.com/shorts/fcaYE7kmKKE",
+  "https://www.youtube.com/shorts/Y1kf9rFJ7mA",
+];
