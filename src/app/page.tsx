@@ -77,7 +77,7 @@ export default function Home() {
               Trusted by Millions of Engineers Worldwide
             </p>
             <p className="text-xs">
-              sometimes dinkleberry can be wrong because he is not
+              sometimes dinkleberry can be wrong because he is not paid
             </p>
           </div>
           <button
